@@ -25,6 +25,8 @@
   - [Money, Budgeting & Management](#money-budgeting--management)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Proxy](#proxy)
+  - [Recipe Management](#recipe-management)
+  - [Remote Access](#remote-access)
   - [Resource Planning](#resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
@@ -186,6 +188,20 @@
 - [inlets](https://inlets.dev/) - Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available. ([Source Code](https://github.com/inlets/inlets-pro)) `⊘ Proprietary` `Go/Docker`
 
 
+### Recipe Management
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code](https://github.com/TandoorRecipes/recipes)) `MIT/Commons-Clause` `Python/Docker/K8S`
+
+
+### Remote Access
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [SparkView](https://www.beyondssl.com/en/products/sparkview/) - Browser-based remote access solution. No VPN client; just deploy the software in the DMZ. Access VMs, desktops, servers, and apps anytime, anywhere, without complex and costly client rollouts or user management. `⊘ Proprietary` `Java`
+
+
 ### Resource Planning
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -218,7 +234,6 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian). ([Source Code](https://github.com/Budibase/budibase)) `⊘ Proprietary` `Nodejs/Docker/K8S`
-- [Dify.ai](https://dify.ai) - Build, test and deploy LLM applications. ([Source Code](https://github.com/langgenius/dify)) `Apache-2.0/Commons-Clause` `Docker`
 - [Dify.ai](https://dify.ai) - Build, test and deploy LLM applications. ([Source Code](https://github.com/langgenius/dify)) `Apache-2.0/Commons-Clause` `Docker`
 
 
