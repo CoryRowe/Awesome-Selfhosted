@@ -24,13 +24,14 @@
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
   - [Pastebins](#pastebins)
-  - [Photo and Video Galleries](#photo-and-video-galleries)
+  - [Photo Galleries](#photo-galleries)
   - [Proxy](#proxy)
   - [Recipe Management](#recipe-management)
   - [Remote Access](#remote-access)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
   - [Software Development - API Management](#software-development---api-management)
+  - [Software Development - IDE & Tools](#software-development---ide--tools)
   - [Software Development - Low Code](#software-development---low-code)
   - [Software Development - Project Management](#software-development---project-management)
   - [Software Development - Testing](#software-development---testing)
@@ -180,7 +181,7 @@
 - [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
 
 
-### Photo and Video Galleries
+### Photo Galleries
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
@@ -237,6 +238,13 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Hook0](https://www.hook0.com) - A Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free. ([Source Code](https://gitlab.com/hook0/hook0)) `SSPL-1.0` `Rust/Nodejs/Docker`
+
+
+### Software Development - IDE & Tools
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [RepoFlow](https://www.repoflow.io) - Simplify package management for npm, PyPI, Docker, Go, Helm, and more. Try it for free with 10GB storage, 10GB bandwidth, 100 packages, and unlimited users in the cloud, or self-hosted for personal use only. `⊘ Proprietary` `Nodejs/Docker`
 
 
 ### Software Development - Low Code
