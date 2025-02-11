@@ -22,9 +22,7 @@
   - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Pastebins](#pastebins)
   - [Photo Galleries](#photo-galleries)
-  - [Proxy](#proxy)
   - [Recipe Management](#recipe-management)
   - [Remote Access](#remote-access)
   - [Search Engines](#search-engines)
@@ -167,13 +165,6 @@
 - [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
 
-### Pastebins
-
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
-
-- [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
-
-
 ### Photo Galleries
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -182,13 +173,6 @@
 - [PhotoStructure](https://photostructure.com/) - All your family's photos and videos automatically organized into a fun and beautiful website. Runs via Docker, NodeJS, or native desktop installers. `⊘ Proprietary` `Nodejs`
 - [Reservo](https://reservo.co) - Scalable image hosting script with support for CDNs, paid account upgrades, advertising spots and drag & drop upload. ([Demo](https://demo.reservo.co/)) `⊘ Proprietary` `PHP`
 - [Single File PHP Gallery](http://sye.dk/sfpg/) - Web gallery in one single PHP file. `⊘ Proprietary` `PHP`
-
-
-### Proxy
-
-**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
-
-- [inlets](https://inlets.dev/) - Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available. ([Source Code](https://github.com/inlets/inlets-pro)) `⊘ Proprietary` `Go/Docker`
 
 
 ### Recipe Management
